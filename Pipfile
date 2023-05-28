@@ -9,6 +9,8 @@ black = "*"
 openai = "*"
 requests = "*"
 urllib3 = "*"
+python-dotenv = "*"
+google-search-results = "*"
 
 [dev-packages]
 
