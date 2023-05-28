@@ -1,6 +1,8 @@
 # Langchain + Linkedin + Twitter
 
-Langchain project with data from Linkedin and Twitter
+A Langchain project with data from Linkedin and Twitter.
+
+This project is part of the course [Develop LLM powered applications with LangChain](https://www.udemy.com/course/langchain/).
 
 ## Requirements
 
@@ -10,7 +12,7 @@ Langchain project with data from Linkedin and Twitter
 
 ## Configuration
 
-Take of the following steps to configure the environment:
+Take care the following steps to configure the environment:
 
 ```bash
 nano .zshrc

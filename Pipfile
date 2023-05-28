@@ -11,6 +11,7 @@ requests = "*"
 urllib3 = "*"
 python-dotenv = "*"
 google-search-results = "*"
+tweepy = "*"
 
 [dev-packages]
 
