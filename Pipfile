@@ -13,6 +13,7 @@ python-dotenv = "*"
 google-search-results = "*"
 tweepy = "*"
 pydantic = "*"
+flask = "*"
 
 [dev-packages]
 
