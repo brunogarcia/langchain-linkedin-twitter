@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bf5a9c37c30ab49ca94f4b118d595c71b101de56ade510a2f82bd26f14586583"
+            "sha256": "1bc93f67e8d29b24eefc8050d9b8c6d4e3260dcb78112ff32a194913b3cc6216"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -538,6 +538,14 @@
             "markers": "python_version >= '3.8'",
             "version": "==1.24.3"
         },
+        "openai": {
+            "hashes": [
+                "sha256:788fb7fa85bf7caac6c1ed7eea5984254a1bdaf09ef485acf0e5718c8b2dc25a",
+                "sha256:bca95fd4c3054ef38924def096396122130454442ec52005915ecf8269626b1d"
+            ],
+            "index": "pypi",
+            "version": "==0.27.7"
+        },
         "openapi-schema-pydantic": {
             "hashes": [
                 "sha256:3e22cf58b74a69f752cc7e5f1537f6e44164282db2700cbbcd3bb99ddd065196",
@@ -663,7 +671,7 @@
                 "sha256:58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f",
                 "sha256:942c5a758f98d790eaed1a29cb6eefc7ffb0d1cf7af05c3d2791656dbd6ad1e1"
             ],
-            "markers": "python_version >= '3.7'",
+            "index": "pypi",
             "version": "==2.31.0"
         },
         "sqlalchemy": {
@@ -721,6 +729,14 @@
             "markers": "python_version >= '3.6'",
             "version": "==8.2.2"
         },
+        "tqdm": {
+            "hashes": [
+                "sha256:1871fb68a86b8fb3b59ca4cdd3dcccbc7e6d613eeed31f4c332531977b89beb5",
+                "sha256:c4f53a17fe37e132815abceec022631be8ffe1b9381c2e6e30aa70edc99e9671"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==4.65.0"
+        },
         "typing-extensions": {
             "hashes": [
                 "sha256:06006244c70ac8ee83fa8282cb188f697b8db25bc8b4df07be1873c43897060c",
@@ -741,7 +757,7 @@
                 "sha256:61717a1095d7e155cdb737ac7bb2f4324a858a1e2e6466f6d03ff630ca68d3cc",
                 "sha256:d055c2f9d38dc53c808f6fdc8eab7360b6fdbbde02340ed25cfbcd817c62469e"
             ],
-            "markers": "python_version >= '3.7'",
+            "index": "pypi",
             "version": "==2.0.2"
         },
         "yarl": {

@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 langchain = "*"
 black = "*"
+openai = "*"
+requests = "*"
+urllib3 = "*"
 
 [dev-packages]
 
