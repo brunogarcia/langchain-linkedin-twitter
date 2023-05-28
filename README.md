@@ -1,6 +1,6 @@
 # Langchain + Linkedin + Twitter
 
-A Langchain project with data from Linkedin and Twitter.
+A [Langchain](https://langchain.readthedocs.io/) project that create a summary of a person based on the scraped data from Linkedin and Twitter.
 
 This project is part of the course [Develop LLM powered applications with LangChain](https://www.udemy.com/course/langchain/).
 
@@ -10,20 +10,29 @@ This project is part of the course [Develop LLM powered applications with LangCh
 - pip
 - pipenv
 
+## Services
+
+- [OpenAI API](https://platform.openai.com/docs/introduction)
+- [Google Search Results API](https://serpapi.com/)
+- [Twitter API](https://developer.twitter.com/en/docs/twitter-api)
+- [Nubela ProxyCurl](https://nubela.co/proxycurl/)
+
 ## Configuration
 
-Take care the following steps to configure the environment:
+Make sure you have the following environment variables set:
 
 ```bash
 nano .zshrc
+
 export PATH="/Users/bruno/Library/Python/3.11/bin:$PATH"
 alias python=/Users/bruno/Library/Python/3.11/bin
-```
 
-```bash
 source .zshrc
 ```
 
+## Installation
+
 ```bash
 pipenv shell
+pipenv install
 ```
